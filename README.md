@@ -51,3 +51,5 @@ Practiced SQL for business insights
 Designed dashboards for decision-making
 
 Improved data storytelling skills
+
+This project simulates a real-world business scenario where data is used to drive strategic decisions.
